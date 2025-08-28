@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_random" id="Fz@2b|D|o*%i8CsEf}D4" disabled-reasons="pxt_automatic_disabled" x="96" y="-111"><value name="min"><shadow type="math_number" id="I;~.|Df5=7JV^f@I^UMC" disabled-reasons="pxt_automatic_disabled"><field name="NUM">0</field></shadow></value><value name="limit"><shadow type="math_number" id="ng%xSE=my=6C8x[F`Fa7" disabled-reasons="pxt_automatic_disabled"><field name="NUM">10</field></shadow></value></block><block type="device_show_leds" id="T990Mp_O-bj]57N].[Pc" disabled-reasons="pxt_automatic_disabled" x="0" y="0"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        . # # # . 
+        . . . # . 
+        # # # . .
+        `</field></block><block type="device_button_event" id="zN=%FDnRDRHeAl.FzTF(" x="154" y="361"><field name="NAME">Button.A</field></block><block type="music_playable_play" id="L6R.WB,h)Msow%2ht~{G" disabled-reasons="pxt_automatic_disabled" x="-402" y="672"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_tone_playable" id="Dt~g=([ui?Io.+uZ[ZR?" disabled-reasons="pxt_automatic_disabled"><value name="note"><shadow type="device_note" id="uFByv%lza{Q8kt#/$Q35" disabled-reasons="pxt_automatic_disabled"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="x/OH$px7rCK0QlE{M^MU" disabled-reasons="pxt_automatic_disabled"><field name="fraction">BeatFraction.Whole</field></shadow></value></shadow></value></block></xml>
